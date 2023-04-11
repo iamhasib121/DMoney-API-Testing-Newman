@@ -14,8 +14,8 @@ npm i newman-reporter-htmlextra
 ```
 node .\report.js
 ```
- - Read the project [Documentation](https://documenter.getpostman.com/view/21091753/2s93CHuEyq).
+ - Read the project [Documentation](https://documenter.getpostman.com/view/26615256/2s93RWMq1A).
 
 #### Screenshot of the report generated using newman
 
-![report using Newman]([Capture](https://user-images.githubusercontent.com/72484940/231229881-6efcaaed-f663-4094-949d-032d3fbba707.PNG)
+![report using Newman](![Capture](https://user-images.githubusercontent.com/72484940/231231144-c9a6d8b9-c517-420d-bb68-960fe204ab7b.PNG))
