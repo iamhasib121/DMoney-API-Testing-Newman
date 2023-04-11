@@ -18,4 +18,4 @@ node .\report.js
 
 #### Screenshot of the report generated using newman
 
-![report using Newman](![Capture](https://user-images.githubusercontent.com/72484940/231231144-c9a6d8b9-c517-420d-bb68-960fe204ab7b.PNG))
+![report using Newman](https://user-images.githubusercontent.com/72484940/231231144-c9a6d8b9-c517-420d-bb68-960fe204ab7b.PNG)
